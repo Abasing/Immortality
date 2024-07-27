@@ -9,10 +9,8 @@
 - Health threshold requirement for activation
 - Activation delay
 - Environment restrictions (worlds and biomes)
-- Configurable messages
-
-## Compatibility
-Compatible with versions 1.12.x to 1.21.
+- Fully customizable plugin
+- Compatible with versions 1.12.x to 1.21.
 
 ## Commands
 
