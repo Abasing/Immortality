@@ -11,6 +11,9 @@
 - Environment restrictions (worlds and biomes)
 - Configurable messages
 
+## Compatibility
+Compatible with versions 1.12.x to 1.21.
+
 ## Commands
 
 - `/immortality toggle [player]` - Toggles Immortality mode for the player.
