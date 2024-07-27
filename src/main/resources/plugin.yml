@@ -1,0 +1,32 @@
+main: me.abasing.immortality.Immortality
+name: Immortality
+version: '${project.version}'
+authors:
+  - Abasing
+  - Zamin Ali
+description: A plugin that makes players immortal, preventing them from dying when they would otherwise take fatal damage.
+api-version: 1.12
+
+commands:
+  immortality:
+    description: Toggles Immortality mode for the player.
+    usage: /<command> [toggle|list|reload] [player]
+    aliases: [immortal]
+    permission: immortality.use
+
+permissions:
+  immortality.use:
+    description: Allows the player to use the immortality command.
+    default: true
+  immortality.reload:
+    description: Allows the player to reload the plugin configuration.
+    default: op
+  Immortality.bypass.cooldown:
+    description: Bypasses the cooldown for activating Immortality mode.
+    default: false
+  Immortality.bypass.health.requirment:
+    description: Bypasses the health threshold for activating Immortality mode.
+    default: false
+  Immortality.bypass.activation.delay:
+    description: Bypasses the activation delay for activating Immortality mode.
+    default: false

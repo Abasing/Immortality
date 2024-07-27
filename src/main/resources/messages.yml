@@ -1,0 +1,12 @@
+messages:
+  ImmortalityEnabled: "&aImmortality is now enabled for you."
+  ImmortalityDisabled: "&cImmortality is now disabled for you."
+  playerNotFound: "&cPlayer not found."
+  reloadSuccess: "&aImmortality configuration reloaded."
+  noPermission: "&cYou do not have permission to use this command."
+  cooldownActive: "&cYou must wait before reactivating Immortality."
+  healthTooLow: "&cYour health is too low to activate Immortality."
+  activationDelayed: "&eImmortality will activate in %seconds% seconds."
+  environmentRestricted: "&cYou cannot activate Immortality in this environment."
+  ImmortalityListHeader: "&6Players with Immortality enabled:"
+  ImmortalityListEntry: "&7- &e%player%"

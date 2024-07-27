@@ -1,0 +1,10 @@
+enable-cooldown-time: true
+cooldown-time: 600 # Cooldown in seconds
+enable-health-threshold: true
+health-threshold: 5.0 # Minimum health required to activate Immortality
+enable-activation-delay: true
+activation-delay: 5 # Delay in seconds
+enable-environment-restrictions: true
+environment-restrictions:
+  allowed-worlds: ["world", "world_nether"]
+  allowed-biomes: ["FOREST", "PLAINS"]
