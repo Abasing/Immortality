@@ -75,7 +75,7 @@ messages:
 
 ## Authors
 
-- Aban
+- Abasing
 - Zamin Ali
 
 ## License
